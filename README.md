@@ -1,7 +1,7 @@
 ### Hi there ✨👋
 
 
-I find out coding by talking with friends and co-workers and it immediatly intrigued me. I'm currently learning how to use HTML and CSS and I'm so excited to know more about it ✨👩🏻‍💻
+I find out coding by talking with friends and co-workers and it immediatly intrigued me. I'm currently learning how to use HTML and CSS and I'm so excited to know more ✨👩🏻‍💻
 
 ![laptop-g75d282c67_640](https://github.com/ireneomassi/ireneomassi/assets/133882535/6f73db9f-8ea9-49bb-902d-0903571898d0)
 
